@@ -1,5 +1,5 @@
 # Scalable-Blockchain-DVS
-A Scalable Blockchain-based Smart Contract model for Decentralized Voltage Stability Using Sharding Technique
+A Scalable Blockchain-based Smart Contract model for Decentralized Voltage Stability Using Sharding Technique.
 This study implementing a [decentralized voltage stability algorithm](https://ieeexplore.ieee.org/abstract/document/9366788) using blockchain-based smart contracts for evaluating the performance of blockchains in real-time control.This project also investigate sharding mechanisms as a means of improving the system’s scalability. 
 
 
